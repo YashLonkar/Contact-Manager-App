@@ -1,6 +1,3 @@
-Sure, here's your text converted into Markdown format:
-
-```markdown
 ## ContactManager App
 
 This React application is a fully functional contact manager that allows you to create, read, update, and delete (CRUD) contacts. It utilizes React Router for efficient navigation and basic CSS for styling.
@@ -23,9 +20,6 @@ This React application is a fully functional contact manager that allows you to 
 
    ```bash
    git clone https://github.com/your-username/contact-manager-app.git
-   ```
-
-   Replace `https://github.com/your-username/contact-manager-app.git` with the actual URL of your repository.
 
 3. **Install Dependencies**
 
