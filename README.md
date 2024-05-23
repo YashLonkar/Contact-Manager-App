@@ -61,15 +61,10 @@ You can customize the app further by:
 
 **Contributing**
 
-We welcome contributions to improve this project! Please feel free to fork the repository, make changes, and submit pull requests.
+Welcome contributions to improve this project! Please feel free to fork the repository, make changes, and submit pull requests.
 
-**License**
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 **Authors**
 
 - Yash Lonkar
 ```
-
-This Markdown code will render as the original text when displayed in Markdown-supported platforms, such as GitHub README files.
