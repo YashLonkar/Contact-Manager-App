@@ -1,5 +1,7 @@
 ## ContactManager App
 
+## Check Live Preview - https://yashlonkar55.github.io/Contact-Manager-App/
+
 This React application is a fully functional contact manager that allows you to create, read, update, and delete (CRUD) contacts. It utilizes React Router for efficient navigation and basic CSS for styling.
 
 **Features**
